@@ -28,7 +28,6 @@ public class max_array {
         }
 
         System.out.println("Maximum element = " + max);
-
-        sc.close();
+        
     }
 }
